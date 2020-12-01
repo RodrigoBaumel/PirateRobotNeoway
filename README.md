@@ -27,5 +27,6 @@ Infelizmente não consegui completar o desafio, mas estou estudando para me apri
 
 Fiz um Scraping em um site também com dados de faixa de cep.
 Obtive o conteúdo do html e tratrei os dados. 
-Realizei todo o código no Google Colaboratory para ficar mais fácil de realizar a análise.
+Realizei todo o código em um notebook no Google Colaboratory para ficar mais fácil de realizar a análise.
 Deixei tudo o mais detalhado possível.
+Link para o Colab: https://colab.research.google.com/drive/1rZWoOKSUrnKfmvWubsWEq2rudGmO5j0k?usp=sharing
