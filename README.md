@@ -19,9 +19,9 @@ Após isto, execute o programa com python. ex:"C:\Users\SeuPC\localDoArquivo>pyt
 
 Sobre o arquivo "pRobot_Correio_Neoway", tive uma dificuldade sobre captar os dados das tabelas após iniciada a busca.
 Acredito que alguma funcionalidade do JavaScript que dificultou a obtenção dos dados.
-Por mais que obtivesse as url's das páginas das tabeas corretamente, não conseguia obter o html da página.
+Por mais que obtivesse as url's das páginas das tabelas corretamente, não conseguia obter o html da página.
 
-Infelizmente não consegui completar o desafio, mas estou estudando para corrigir esta minha falha.
+Infelizmente não consegui completar o desafio, mas estou estudando para me aprimorar e melhorar neste sentido.
 
 ###pRobot_BoxLoja_Neoway
 
